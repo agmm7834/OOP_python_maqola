@@ -1,7 +1,7 @@
 # Python OOP: 
 ---
 
-## 0) Python’da hamma narsa obyekt (va bu OOP’ni osonlashtiradi)
+## 0) Python’da hamma narsa obyekt (va bu OOP’ni osonlashtiradi).
 
 Python’da “oddiy” ko‘ringan narsalar ham obyekt: son, matn, ro‘yxat, funksiya, hatto klassning o‘zi.
 
