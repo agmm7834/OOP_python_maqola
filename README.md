@@ -1,4 +1,4 @@
-# Python OOP: 
+# Python OOP
 ---
 
 ## 0) Python’da hamma narsa obyekt (va bu OOP’ni osonlashtiradi).
